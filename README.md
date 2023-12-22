@@ -9,7 +9,7 @@
 Установите CGAL в соответствии с инструкциями на [официальном сайте CGAL](https://www.cgal.org/download.html).
 
 ### Boost
-Установите Boost, следуя инструкциям на [официальном сайте Boost](https://www.boost.org/doc/libs/1_75_0/more/getting_started/index.html).
+Установите Boost, следуя инструкциям на [официальном сайте Boost](https://www.boost.org/).
 
 ## Установка и Конфигурация
 1. **Установка CGAL и Boost:**
