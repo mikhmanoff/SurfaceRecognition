@@ -21,7 +21,7 @@ class Triangulation {
 
   explicit Triangulation(int argc = 1, char** argv = nullptr)
       : ac(argc), av(argv) {}
-  ~Triangulation() = default;  // Изменено: использование дефолтного деструктора
+  ~Triangulation() = default;
 
   void checkOption(const PO::variables_map& vm, const std::string& option,
                    std::string& value, const PO::options_description& desc);
