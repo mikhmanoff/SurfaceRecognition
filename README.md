@@ -18,9 +18,9 @@
 
 2. **Клонирование репозитория:**
    ```bash
-   git clone https://github.com/mikhmanoff/SurfaceRecognition.git
+   git clone https://github.com/mikhmanoff/Triangulation.git
    
-   cd SurfaceRecognition
+   cd Triangulation
 
 2. **Компиляция и запуск:**
    ```bash
